@@ -8,7 +8,7 @@ An interactive and educational web-based visualizer for popular sorting algorith
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://anmolmishra09.github.io/sorting-visualizer) *(Replace with your actual GitHub Pages URL)*
+[View Live Demo](https://github.com/anmolmishra09/Sorting-Algorithm-Visualizer.git) *(Replace with your actual GitHub Pages URL)*
 
 ## ✨ Features
 
