@@ -8,7 +8,7 @@ An interactive and educational web-based visualizer for popular sorting algorith
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://sorting-algorithm-visualizer-rose.vercel.app/) *(Replace with your actual GitHub Pages URL)*
+[View Live Demo](https://sorting-algorithm-visualizer-rose.vercel.app/) 
 
 ## ✨ Features
 
